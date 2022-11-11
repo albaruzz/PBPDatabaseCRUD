@@ -1,6 +1,4 @@
 # PBPDatabaseCRUD
-Android database app using SQLite
-
 ## Kelompok 2:
 
 1. Hamid Albar Nurrasyid 24060120130069
